@@ -1,0 +1,14 @@
+The upstream software code is a clone of https://github.com/info6005/6005_cw1_2012
+
+This software is a simple RSS feeds Reader written in PHP.
+
+This is the first part of coursework of INFO 6005 at University of Southampton, 2012.
+
+Students are expected to package the existing code for distribution on debian or ubuntu platform.
+
+Install: dpkg -i cw1-6005-eig1g11.deb
+
+Usage: cw1-6005-eig1g11 # which equals 'php index.php'
+
+Features: Command line tool, User configuration
+
