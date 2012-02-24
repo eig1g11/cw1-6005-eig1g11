@@ -1,0 +1,16 @@
+Source: cw1-6005-eig1g11
+Section: web
+Priority: extra
+Maintainer: Emmanuel Gandah <eig1g11@ecs.soton.ac.uk>
+Build-Depends: debhelper (>= 7.0.50~)
+Standards-Version: 3.8.4
+Homepage: https://github.com/eig1g11/cw1-6005-eig1g11
+
+Package: cw1-6005-eig1g11
+Architecture: all
+Depends: ${misc:Depends}
+Description: RSS Reader written in PHP
+ cw1-6005-eig1g11 is an example program that reads News 
+ headline feeds.This is a course work for Rich Internet Applications by
+ the University of Southampton.
+
